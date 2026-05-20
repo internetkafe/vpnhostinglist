@@ -5,7 +5,8 @@ https://www.yourserver.se/ | Latvia, Sweden
 https://ifog.ch/ | USA, Canada, Switzerland, Germany, Netherlands, Spain, United Kingdom, Norway, Italy, Australia, Singapore
 https://webdock.io/ | Denmark
 https://skhron.eu/ | Poland, Sweden
-https://www.hosteroid.uk/ | United Kingdom, Austria, Romania, Lithuania, Slovakia, Amsterdam, Albania https://www.bacloud.com/ | Lithuania, United Kingdom, Netherlands, USA
+https://www.hosteroid.uk/ | United Kingdom, Austria, Romania, Lithuania, Slovakia, Amsterdam, Albania 
+https://www.bacloud.com/ | Lithuania, United Kingdom, Netherlands, USA
 https://www.millenial.host/ | Hong Kong, United Kingdom, Netherlands, Switzerland
 https://ssdvps.dk/
 https://caasify.com/
