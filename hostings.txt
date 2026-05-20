@@ -1,13 +1,12 @@
-https://stw.no/
-https://suble.io/
-https://smokyhosts.com/
-https://www.yourserver.se/
-https://ifog.ch/
-https://webdock.io/
-https://skhron.eu/
-https://www.hosteroid.uk/
-https://www.bacloud.com/
-https://www.millenial.host/
+https://stw.no/ | Norway
+https://suble.io/ | Norway
+https://smokyhosts.com/ | USA, Canada, Norway, France, Estonia, India
+https://www.yourserver.se/ | Latvia, Sweden 
+https://ifog.ch/ | USA, Canada, Switzerland, Germany, Netherlands, Spain, United Kingdom, Norway, Italy, Australia, Singapore
+https://webdock.io/ | Denmark
+https://skhron.eu/ | Poland, Sweden
+https://www.hosteroid.uk/ | United Kingdom, Austria, Romania, Lithuania, Slovakia, Amsterdam, Albania https://www.bacloud.com/ | Lithuania, United Kingdom, Netherlands, USA
+https://www.millenial.host/ | Hong Kong, United Kingdom, Netherlands, Switzerland
 https://ssdvps.dk/
 https://caasify.com/
 https://www.ozonti.net/
@@ -20,52 +19,52 @@ https://3v-host.com/
 https://datapasa.com/
 https://www.vm6.co.uk/
 https://introserv.com/
-https://alice.sh/
+https://alice.sh/ | Hong Kong, Japan, USA
 https://chunkserve.com/
 https://hyonix.com/
-https://creanova.org/
-https://flokinet.is/
-https://tietokettu.net/en/
+https://creanova.org/ | Finland
+https://flokinet.is/ | Finland, Netherlands, Iceland, Romania
+https://tietokettu.net/en/ | Finland
 https://skrime.eu/
 https://hosthatch.com/
-https://webhorizon.net/
+https://webhorizon.net/ | Japan, Singapore, Norway, Netherlands, India
 https://onidel.com/
 https://private-hosting.eu/
 https://hostdzire.com/
 https://www.misaka.io/
-https://freakhosting.com/
+https://freakhosting.com/ | USA, Germany, Poland, Romania 
 https://strike.bz/
 https://loclix.io/
-https://shrp.no/
+https://shrp.no/ | Norway
 https://cloudblast.io/
 https://www.vpslayer.net/
 https://www.millenial.host/
 https://deluxhost.net/
 https://hostkey.com/vps/
 https://vps247.com/
-https://www.space-hosting.net/
-https://pipehost.net/
+https://www.space-hosting.net/ | Lithuania
+https://pipehost.net/ | Netherlands, Austria, Slovenia
 https://colonelserver.com/
-https://neohost.ro/
-https://wasabihosting.com/
+https://neohost.ro/ | Romania, Germany
+https://wasabihosting.com/ | Netherlands
 https://k.pl/
-https://1984.is/
+https://1984.is/ | Iceland
 https://ahost.eu
 https://www.wesbytes.com/
 https://master-rdp.com/
 https://hostwild.com/
-https://zomro.com/
+https://zomro.com/ | Poland, Netherlands, Germany, USA
 https://ava.hosting/
 https://rdp.cheap/
 https://sebekvps.com/
 https://cloudzy.com/
 https://qde.com/
-https://bytehosting.cloud/
+https://bytehosting.cloud/ | Germany
 https://www.forpsi.com/
-https://rdp.monster/
+https://rdp.monster/ | France, USA
 https://alphavps.com/
 https://www.evps.net/
-https://wavecom.ee/
+https://wavecom.ee/ | Estonia
 https://finalhosting.cz/
 https://www.orelsoft.cz/
 https://www.hukot.net/
@@ -73,8 +72,8 @@ https://vedos.cz/
 https://www.coolhousing.net/
 https://unlimited.rs/
 https://www.maxko-hosting.com/
-https://liteserver.nl/
-https://privatelayer.com/
-https://evolushost.com/
+https://liteserver.nl/ | Netherlands
+https://privatelayer.com/ | Switzerland
+https://evolushost.com/ | Austria 
 https://www.hostnamaste.com/
-https://datapasa.com/
+https://datapasa.com/ | Germany
