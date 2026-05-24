@@ -22,14 +22,14 @@ https://www.vm6.co.uk/
 https://introserv.com/
 https://alice.sh/ | Hong Kong, Japan, USA
 https://chunkserve.com/ | Poland (cheap)
-https://hyonix.com/
+https://hyonix.com/ | United Kingdom London, USA Los Angeles, USA Dallas, USA Ashburn, USA New York, USA Miami, USA Chicago, USA Phoenix, USA Bend, USA Charlotte, Canada Toronto, Netherlands Amsterdam, Germany Frankfurt, Ireland Dublin, Singapore, Japan Tokyo, Hong Kong SAR, Australia Sydney
 https://creanova.org/ | Finland
 https://flokinet.is/ | Finland, Netherlands, Iceland, Romania
 https://tietokettu.net/en/ | Finland
 https://skrime.eu/ | Germany
-https://hosthatch.com/
+https://hosthatch.com/ | Hong Kong, Singapore, Australia (Sydney), Japan (Tokyo), Netherlands (Amsterdam), United Kingdom (London), Norway (Oslo), Sweden (Stockholm), Austria (Vienna), Switzerland (Zurich), USA (Chicago), USA (Los Angeles), USA (New York)
 https://webhorizon.net/ | Japan, Singapore, Norway, Netherlands, India
-https://onidel.com/ 
+https://onidel.com/ | Netherlands, Hong Kong, USA, Austria, Singapore
 https://private-hosting.eu/ | Germany
 https://hostdzire.com/
 https://www.misaka.io/ | USA, Netherlands, UK, Germany, Hong Kong, Taiwan, Japan, Singapore, Brazil, South Africa
