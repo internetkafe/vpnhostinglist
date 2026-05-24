@@ -29,8 +29,8 @@ https://tietokettu.net/en/ | Finland
 https://skrime.eu/ | Germany
 https://hosthatch.com/
 https://webhorizon.net/ | Japan, Singapore, Norway, Netherlands, India
-https://onidel.com/
-https://private-hosting.eu/
+https://onidel.com/ 
+https://private-hosting.eu/ | Germany
 https://hostdzire.com/
 https://www.misaka.io/ | USA, Netherlands, UK, Germany, Hong Kong, Taiwan, Japan, Singapore, Brazil, South Africa
 https://freakhosting.com/ | USA, Germany, Poland, Romania 
