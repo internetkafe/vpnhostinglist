@@ -31,7 +31,7 @@ https://hosthatch.com/ | Hong Kong, Singapore, Australia (Sydney), Japan (Tokyo)
 https://webhorizon.net/ | Japan, Singapore, Norway, Netherlands, India
 https://onidel.com/ | Netherlands, Hong Kong, USA, Austria, Singapore
 https://private-hosting.eu/ | Germany
-https://hostdzire.com/
+https://hostdzire.com/ | India, Singapore, Japan, USA, Canada, Netherlands, Germany, United Kingdom
 https://www.misaka.io/ | USA, Netherlands, UK, Germany, Hong Kong, Taiwan, Japan, Singapore, Brazil, South Africa
 https://freakhosting.com/ | USA, Germany, Poland, Romania 
 https://strike.bz/ | Poland, USA, Singapore
@@ -64,15 +64,15 @@ https://bytehosting.cloud/ | Germany
 https://www.forpsi.com/ | Czech Republic
 https://rdp.monster/ | France, USA
 https://alphavps.com/ | USA, Germany, Bulgaria
-https://www.evps.net/
+https://www.evps.net/ | Europe 
 https://wavecom.ee/ | Estonia
 https://finalhosting.cz/ | Czech Republic
 https://www.orelsoft.cz/ | Czech Republic
 https://www.hukot.net/ | | Czech Republic
 https://vedos.cz/ | Czech Republic
-https://www.coolhousing.net/
+https://www.coolhousing.net/ | Czech Republic
 https://unlimited.rs/ | Serbia
-https://www.maxko-hosting.com/
+https://www.maxko-hosting.com/ | Croatia, Bulgaria, Hungary, South Africa, Netherlands, Serbia
 https://liteserver.nl/ | Netherlands
 https://privatelayer.com/ | Switzerland
 https://evolushost.com/ | Austria 
