@@ -9,17 +9,17 @@ https://www.hosteroid.uk/ | United Kingdom, Austria, Romania, Lithuania, Slovaki
 https://www.bacloud.com/ | Lithuania, United Kingdom, Netherlands, USA
 https://www.millenial.host/ | Hong Kong, United Kingdom, Netherlands, Switzerland
 https://ssdvps.dk/ | Denmark
-https://caasify.com/
-https://www.ozonti.net/
+https://caasify.com/ | United Arab Emirates Abu Dhabi, Turkey Istanbul, India Delhi, India Bangalore, India Chennai, India Mumbai, Singapore, Australia Sydney, Australia Melbourne, Indonesia Jakarta, Japan Osaka, Japan Tokyo, Sweden Stockholm, United Kingdom London, United Kingdom Manchester, Germany Nurnberg, Germany Falkenstein, Germany Frankfurt, France Paris, Netherlands Amsterdam, Spain Madrid, Finland Helsinki, USA New York, USA San Francisco, USA New Jersey, USA Chicago, USA Dallas, USA Seattle, USA Los Angeles, USA Atlanta, USA Silicon Valley, USA Miami, Canada Toronto, Canada Fremont, Brazil Sao Paulo, Mexico Mexico City, South Africa Johannesburg
+https://www.ozonti.net/ | USA Utah, United Kingdom London, Germany Frankfurt, Poland Warsaw, Netherlands Amsterdam, Spain Barcelona
 https://deinserverhost.de | Germany
 https://computebox.de/ | Germany
 https://realtoxmedia.de/ | Germany
 https://www.netcup.com/ | USA, Austria, Singapore, Germany
-https://hidehost.net/vds.html
-https://3v-host.com/
-https://datapasa.com/
-https://www.vm6.co.uk/
-https://introserv.com/
+https://hidehost.net/ | Netherlands, Ukraine, Poland
+https://3v-host.com/ | Ukraine, Netherlands
+https://datapasa.com/ | Germany
+https://www.vm6.co.uk/ | United Kingdom 
+https://introserv.com/ | Netherlands, Germany, France, Poland, United Kingdom, USA
 https://alice.sh/ | Hong Kong, Japan, USA
 https://chunkserve.com/ | Poland (cheap)
 https://hyonix.com/ | United Kingdom London, USA Los Angeles, USA Dallas, USA Ashburn, USA New York, USA Miami, USA Chicago, USA Phoenix, USA Bend, USA Charlotte, Canada Toronto, Netherlands Amsterdam, Germany Frankfurt, Ireland Dublin, Singapore, Japan Tokyo, Hong Kong SAR, Australia Sydney
@@ -34,14 +34,14 @@ https://private-hosting.eu/ | Germany
 https://hostdzire.com/
 https://www.misaka.io/ | USA, Netherlands, UK, Germany, Hong Kong, Taiwan, Japan, Singapore, Brazil, South Africa
 https://freakhosting.com/ | USA, Germany, Poland, Romania 
-https://strike.bz/
-https://loclix.io/
+https://strike.bz/ | Poland, USA, Singapore
+https://loclix.io/ | USA, Germany
 https://shrp.no/ | Norway
-https://cloudblast.io/
-https://www.vpslayer.net/
-https://www.millenial.host/
-https://deluxhost.net/
-https://hostkey.com/vps/
+https://cloudblast.io/ | Netherlands, USA
+https://www.vpslayer.net/ | Netherlands
+https://www.mlnl.host/ | Hong Kong, Netherlands United Kingdom, Switzerland
+https://deluxhost.net/ | Netherlands, Germany
+https://hostkey.com/ | France, Germany, USA, United Kingdom, Spain, Italy, Poland, Switzerland, Turkey, Iceland
 https://vps247.com | Manchester (UK), London (UK), Bucharest (Romania), Amsterdam (Netherlands), Budapest (Hungary), Madrid (Spain), Milan (Italy), Paris (France), Brussels (Belgium), Frankfurt (Germany), Vienna (Austria), Zurich (Switzerland), Prague (Czech Republic), Los Angeles (USA), New York (USA), Miami (USA), Montreal (Canada), Singapore
 https://www.space-hosting.net/ | Lithuania
 https://pipehost.net/ | Netherlands, Austria, Slovenia
