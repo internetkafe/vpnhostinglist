@@ -26,7 +26,7 @@ https://hyonix.com/
 https://creanova.org/ | Finland
 https://flokinet.is/ | Finland, Netherlands, Iceland, Romania
 https://tietokettu.net/en/ | Finland
-https://skrime.eu/
+https://skrime.eu/ | Germany
 https://hosthatch.com/
 https://webhorizon.net/ | Japan, Singapore, Norway, Netherlands, India
 https://onidel.com/
@@ -50,10 +50,10 @@ https://neohost.ro/ | Romania, Germany
 https://wasabihosting.com/ | Netherlands
 https://k.pl/ | Poland
 https://1984.is/ | Iceland
-https://ahost.eu
+https://ahost.eu/ | Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Czech, Denmark, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Israel, Italy, Japan, Latvia, Lithuania, Moldova, Netherlands, North Macedonia, Norway, Poland, Romania, Russia, Serbia, Singapore, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates, United Kingdom, United States
 https://www.wesbytes.com/ | Malaysia 
 https://master-rdp.com/ | Netherlands, USA
-https://hostwild.com/
+https://hostwild.com/ | USA, Canada, Germany, Netherlands, Singapore, United Kingdom, Japan, Australia
 https://zomro.com/ | Poland, Netherlands, Germany, USA
 https://ava.hosting/ | Moldova
 https://rdp.cheap/ | France, Poland, USA, Netherlands, Germany, UK, Singapore, Hong Kong, Japan
