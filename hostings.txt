@@ -11,8 +11,8 @@ https://www.millenial.host/ | Hong Kong, United Kingdom, Netherlands, Switzerlan
 https://ssdvps.dk/
 https://caasify.com/
 https://www.ozonti.net/
-https://deinserverhost.de
-https://computebox.de/
+https://deinserverhost.de | Germany
+https://computebox.de/ | Germany
 https://realtoxmedia.de/
 https://www.netcup.com/
 https://hidehost.net/vds.html
@@ -21,7 +21,7 @@ https://datapasa.com/
 https://www.vm6.co.uk/
 https://introserv.com/
 https://alice.sh/ | Hong Kong, Japan, USA
-https://chunkserve.com/
+https://chunkserve.com/ | Poland (cheap)
 https://hyonix.com/
 https://creanova.org/ | Finland
 https://flokinet.is/ | Finland, Netherlands, Iceland, Romania
@@ -32,7 +32,7 @@ https://webhorizon.net/ | Japan, Singapore, Norway, Netherlands, India
 https://onidel.com/
 https://private-hosting.eu/
 https://hostdzire.com/
-https://www.misaka.io/
+https://www.misaka.io/ | USA, Netherlands, UK, Germany, Hong Kong, Taiwan, Japan, Singapore, Brazil, South Africa
 https://freakhosting.com/ | USA, Germany, Poland, Romania 
 https://strike.bz/
 https://loclix.io/
@@ -42,39 +42,41 @@ https://www.vpslayer.net/
 https://www.millenial.host/
 https://deluxhost.net/
 https://hostkey.com/vps/
-https://vps247.com/
+https://vps247.com | Manchester (UK), London (UK), Bucharest (Romania), Amsterdam (Netherlands), Budapest (Hungary), Madrid (Spain), Milan (Italy), Paris (France), Brussels (Belgium), Frankfurt (Germany), Vienna (Austria), Zurich (Switzerland), Prague (Czech Republic), Los Angeles (USA), New York (USA), Miami (USA), Montreal (Canada), Singapore
 https://www.space-hosting.net/ | Lithuania
 https://pipehost.net/ | Netherlands, Austria, Slovenia
-https://colonelserver.com/
+https://colonelserver.com/ | USA, Russia, Netherlands, Hong-Kong, Germany, Canada, Great Britain, Turkey, Poland, Bulgaria, Italy, Finland, Sweden, Switzerland, Norway, Ireland, France, Spain, Greece, Lithuania, Denmark, Austria, Belgium, Japan
 https://neohost.ro/ | Romania, Germany
 https://wasabihosting.com/ | Netherlands
-https://k.pl/
+https://k.pl/ | Poland
 https://1984.is/ | Iceland
 https://ahost.eu
-https://www.wesbytes.com/
-https://master-rdp.com/
+https://www.wesbytes.com/ | Malaysia 
+https://master-rdp.com/ | Netherlands, USA
 https://hostwild.com/
 https://zomro.com/ | Poland, Netherlands, Germany, USA
-https://ava.hosting/
-https://rdp.cheap/
-https://sebekvps.com/
-https://cloudzy.com/
-https://qde.com/
+https://ava.hosting/ | Moldova
+https://rdp.cheap/ | France, Poland, USA, Netherlands, Germany, UK, Singapore, Hong Kong, Japan
+https://sebekvps.com/ | Germany
+https://cloudzy.com/ | USA (Utah, Dallas, Los Angeles, New York, Miami), United Kingdom, Netherlands, Germany, Switzerland, UAE, Singapore, Australia, Japan
+https://qde.com/ | Netherlands 
 https://bytehosting.cloud/ | Germany
-https://www.forpsi.com/
+https://www.forpsi.com/ | Czech Republic
 https://rdp.monster/ | France, USA
-https://alphavps.com/
+https://alphavps.com/ | USA, Germany, Bulgaria
 https://www.evps.net/
 https://wavecom.ee/ | Estonia
-https://finalhosting.cz/
-https://www.orelsoft.cz/
-https://www.hukot.net/
-https://vedos.cz/
+https://finalhosting.cz/ | Czech Republic
+https://www.orelsoft.cz/ | Czech Republic
+https://www.hukot.net/ | | Czech Republic
+https://vedos.cz/ | Czech Republic
 https://www.coolhousing.net/
-https://unlimited.rs/
+https://unlimited.rs/ | Serbia
 https://www.maxko-hosting.com/
 https://liteserver.nl/ | Netherlands
 https://privatelayer.com/ | Switzerland
 https://evolushost.com/ | Austria 
-https://www.hostnamaste.com/
+https://www.hostnamaste.com/ | USA, France, Netherlands, Canada
 https://datapasa.com/ | Germany
+https://evps.host/ | Netherlands, Germany, France, Poland, Ukraine, Spain, Bulgaria
+https://mevspace.com | Poland
