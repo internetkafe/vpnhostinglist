@@ -112,3 +112,16 @@ https://oxygen.bm/ | Bermuda
 https://securehost.com/ | Bermuda
 https://zappiehost.com/ | Chile,  South Africa, New Zealand 
 https://infofractal.io/ | Chile 
+https://fairyhosting.com/ | Estonia, Sweden, Germany 
+https://www.finaltek.com/ | Czech Republic 
+https://www.mydreams.cz/ | Czech Republic
+https://ugb.ee/ | Estonia 
+https://mnogoweb.ru/ | Russia, Kazakhstan, Netherlands, Finland, USA
+https://www.zone.ee/ | Estonia
+https://www.easylinehost.com/ | Finland
+https://tavu.io/ | Finland 
+https://www.cloud9.ge/ | Georgia 
+https://www.proservice.ge/ | Georgia 
+https://ml.cloud/ | Russia (Kazan,Saint Petersburg,Moscow, Rotov on Dony,Saratov), Latvia(Riga), Poland(Warsaw), Netherlands(Amsterdam)
+https://www.hostafrica.com/ | South Africa, Nigeria, Kenya, Ghana
+https://mikrovps.net/ | Hungary
