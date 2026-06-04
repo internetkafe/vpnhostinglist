@@ -133,3 +133,7 @@ https://vps.sakura.ad.jp/ | Japan
 https://www.starrydns.com/ | Japan
 https://cat.net/ | Japan
 https://www.hostens.com/ | Lithuania
+https://www.albahost.net/ | Albania
+https://ihost.md/ | Moldova
+https://truxgoservers.com/ | USA, Mexico, Brazil, Bulgaria, France, Germany, Greece, Netherlands, Sweden, Turkey, UK, India, Japan, South Korea, Singapore 
+https://www.dominios.pt/ | Portugal 
