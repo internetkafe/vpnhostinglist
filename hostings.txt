@@ -137,3 +137,6 @@ https://www.albahost.net/ | Albania
 https://ihost.md/ | Moldova
 https://truxgoservers.com/ | USA, Mexico, Brazil, Bulgaria, France, Germany, Greece, Netherlands, Sweden, Turkey, UK, India, Japan, South Korea, Singapore 
 https://www.dominios.pt/ | Portugal 
+https://svea.net/ | Sweden 
+https://swedendedicated.com/ | Sweden 
+https://altushost.com/ | Netherlands, Sweden, Switzerland, Bulgaria 
