@@ -143,3 +143,7 @@ https://altushost.com/ | Netherlands, Sweden, Switzerland, Bulgaria
 https://www.serveroffer.net/ | Lithuania
 https://www.cherryservers.com/ | Lithuania, Netherlands, USA, Singapore, Sweden, Germany, Japan
 https://www.exoscale.com/ | Germany, Austria, Switzerland, Bulgaria, Croatia
+https://www.zettagrid.com/ | Australia 
+https://www.binarylane.com.au/ | Australia 
+https://intergrid.au/ | Australia 
+https://safozi.com/ | Tunis
