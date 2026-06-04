@@ -140,3 +140,6 @@ https://www.dominios.pt/ | Portugal
 https://svea.net/ | Sweden 
 https://swedendedicated.com/ | Sweden 
 https://altushost.com/ | Netherlands, Sweden, Switzerland, Bulgaria 
+https://www.serveroffer.net/ | Lithuania
+https://www.cherryservers.com/ | Lithuania, Netherlands, USA, Singapore, Sweden, Germany, Japan
+https://www.exoscale.com/ | Germany, Austria, Switzerland, Bulgaria, Croatia
