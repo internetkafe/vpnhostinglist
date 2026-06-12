@@ -152,3 +152,6 @@ https://atalnetworks.com/ | Estonia, Sweden, UK, USA, Spain, Slovakia, Netherlan
 https://servinga.com/ | Estonia, Sweden, UK, USA, Spain, Germany, Netherlands, Switzerland, Romania 
 https://karabro.se/ | Sweden
 https://bahnhof.cloud/ | Sweden 
+https://akenai.host/ | UK
+https://intezio.net/ | Germany, Poland, Netherlands 
+https://bit.hosting/ | Netherlands, USA, UK, Germany, Switzerland, Canada, Spain, Italy
