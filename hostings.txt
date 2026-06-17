@@ -76,7 +76,6 @@ https://liteserver.nl/ | Netherlands
 https://privatelayer.com/ | Switzerland
 https://evolushost.com/ | Austria 
 https://www.hostnamaste.com/ | USA, France, Netherlands, Canada
-https://datapasa.com/ | Germany
 https://evps.host/ | Netherlands, Germany, France, Poland, Ukraine, Spain, Bulgaria
 https://mevspace.com | Poland
 https://justhost.ru/ | Albania, Brazil, Bulgaria, Canada, China, France, Greece, Ireland, Italy, Japan, Netherlands, Russia, Singapore, Spain, Sweden, Switzerland, UAE, USA, United Kingdom, Armenia, Austria, Belgium, Czechia, Denmark, Finland, Germany, Iceland, India, Israel, Latvia, Lithuania, Moldova, Norway, Poland, Portugal, Romania, Slovenia, South Korea, Turkey
