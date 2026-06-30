@@ -1,7 +1,5 @@
 # vpn hosting list
 
-https://t.me/inetkafe
-
 vps hosting list / список ссылок на vps хостинги | RemnaWave / 3X-UI / MarzBan / PasarGuard
 
 # donate 
